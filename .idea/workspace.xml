@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="330fbad8-5abb-4d22-8ccf-7604c56f115d" name="Changes" comment="" />
+    <list default="true" id="330fbad8-5abb-4d22-8ccf-7604c56f115d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/automation.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/automation.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/master.xml" beforeDir="false" afterPath="$PROJECT_DIR$/master.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testBase/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testBase/BaseClass.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +26,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="day1" />
+        <entry key="$PROJECT_DIR$" value="day2" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -38,16 +44,33 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.E:/seleniumwebdriver/Opencartv1/crossbrowsertesting.xml.executor": "Run",
     "TestNG.E:/seleniumwebdriver/Opencartv1/master.xml.executor": "Run",
     "TestNG.TC001_AccountRegistrationTest (1).executor": "Run",
     "TestNG.TC001_AccountRegistrationTest.executor": "Run",
     "TestNG.TC001_AccountRegistrationTest.verify_account_registration.executor": "Run",
-    "git-widget-placeholder": "day2",
+    "git-widget-placeholder": "day3",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/seleniumwebdriver/Opencartv1/testData",
     "onboarding.tips.debug.path": "E:/seleniumwebdriver/Opencartv1/src/main/java/org/deepak/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.TC001_AccountRegistrationTest">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\seleniumwebdriver\Opencartv1\testData" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.E:/seleniumwebdriver/Opencartv1/master.xml">
+    <configuration name="E:/seleniumwebdriver/Opencartv1/crossbrowsertesting.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Opencartv1" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/crossbrowsertesting.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="E:/seleniumwebdriver/Opencartv1/master.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Opencartv1" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/master.xml" />
@@ -112,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.E:/seleniumwebdriver/Opencartv1/master.xml" />
+        <item itemvalue="TestNG.E:/seleniumwebdriver/Opencartv1/crossbrowsertesting.xml" />
         <item itemvalue="TestNG.TC001_AccountRegistrationTest (1)" />
         <item itemvalue="TestNG.TC001_AccountRegistrationTest.verify_account_registration" />
         <item itemvalue="TestNG.TC001_AccountRegistrationTest" />
-        <item itemvalue="TestNG.E:/seleniumwebdriver/Opencartv1/master.xml" />
-        <item itemvalue="TestNG.E:/seleniumwebdriver/Opencartv1/master.xml" />
       </list>
     </recent_temporary>
   </component>

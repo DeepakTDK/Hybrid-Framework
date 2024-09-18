@@ -10,17 +10,24 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
 
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
 import java.time.Duration;
+import java.util.Properties;
 
 public class BaseClass {
     public WebDriver driver;
     public Logger logger;
+    public Properties p;
 
     @BeforeClass
     @Parameters({"os", "browser"})
-    public void setup(String os, String br){
+    public void setup(String os, String br) throws IOException {
         logger = LogManager.getLogger(this.getClass());
-
+        FileReader fr = new FileReader("./src//test//resources//config.properties");
+        p = new Properties();
+        p.load(fr);
         switch (br.toLowerCase()){
             case "chrome" : driver = new ChromeDriver(); break;
             case "firefox" : driver = new FirefoxDriver(); break;
@@ -31,7 +38,7 @@ public class BaseClass {
         driver.manage().deleteAllCookies();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 
-        driver.get("https://tutorialsninja.com/demo/index.php?route=common/home");
+        driver.get(p.getProperty("appurl"));
         driver.manage().window().maximize();
     }
 
