@@ -1,0 +1,65 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"330fbad8-5abb-4d22-8ccf-7604c56f115d\" name=\"Changes\" comment=\"\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/logs/automation.log\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/logs/automation.log\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/pom.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/pom.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"day3\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 2\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2lumCHtI4Sz8ZSnOD7VkP5NVdrb\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Maven.Opencartv1 [compile].executor\": \"Run\",\r\n    \"Maven.Opencartv1 [install].executor\": \"Run\",\r\n    \"Maven.Opencartv1 [test].executor\": \"Run\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\r\n    \"TestNG.E:/seleniumwebdriver/Opencartv1/crossbrowsertesting.xml.executor\": \"Run\",\r\n    \"TestNG.E:/seleniumwebdriver/Opencartv1/grid-docker.xml.executor\": \"Run\",\r\n    \"TestNG.E:/seleniumwebdriver/Opencartv1/grouping.xml.executor\": \"Run\",\r\n    \"TestNG.E:/seleniumwebdriver/Opencartv1/master.xml.executor\": \"Run\",\r\n    \"TestNG.TC001_AccountRegistrationTest (1).executor\": \"Run\",\r\n    \"TestNG.TC001_AccountRegistrationTest.executor\": \"Run\",\r\n    \"TestNG.TC001_AccountRegistrationTest.verify_account_registration.executor\": \"Run\",\r\n    \"git-widget-placeholder\": \"day4\",\r\n    \"kotlin-language-version-configured\": \"true\",\r\n    \"last_opened_file_path\": \"E:/seleniumwebdriver/Opencartv1/testData\",\r\n    \"onboarding.tips.debug.path\": \"E:/seleniumwebdriver/Opencartv1/src/main/java/org/deepak/Main.java\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"E:\\seleniumwebdriver\\Opencartv1\\testData\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"TestNG.E:/seleniumwebdriver/Opencartv1/grid-docker.xml\">\r\n    <configuration name=\"E:/seleniumwebdriver/Opencartv1/crossbrowsertesting.xml\" type=\"TestNG\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"Opencartv1\" />\r\n      <option name=\"SUITE_NAME\" value=\"$PROJECT_DIR$/crossbrowsertesting.xml\" />\r\n      <option name=\"TEST_OBJECT\" value=\"SUITE\" />\r\n      <properties />\r\n      <listeners />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"E:/seleniumwebdriver/Opencartv1/grid-docker.xml\" type=\"TestNG\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"Opencartv1\" />\r\n      <option name=\"SUITE_NAME\" value=\"$PROJECT_DIR$/grid-docker.xml\" />\r\n      <option name=\"TEST_OBJECT\" value=\"SUITE\" />\r\n      <properties />\r\n      <listeners />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"E:/seleniumwebdriver/Opencartv1/grouping.xml\" type=\"TestNG\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"Opencartv1\" />\r\n      <option name=\"SUITE_NAME\" value=\"$PROJECT_DIR$/grouping.xml\" />\r\n      <option name=\"TEST_OBJECT\" value=\"SUITE\" />\r\n      <properties />\r\n      <listeners />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"E:/seleniumwebdriver/Opencartv1/master.xml\" type=\"TestNG\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"Opencartv1\" />\r\n      <option name=\"SUITE_NAME\" value=\"$PROJECT_DIR$/master.xml\" />\r\n      <option name=\"TEST_OBJECT\" value=\"SUITE\" />\r\n      <properties />\r\n      <listeners />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"TC001_AccountRegistrationTest (1)\" type=\"TestNG\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"Opencartv1\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"testBase.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <option name=\"PACKAGE_NAME\" value=\"testBase\" />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"testBase.TC001_AccountRegistrationTest\" />\r\n      <option name=\"TEST_OBJECT\" value=\"CLASS\" />\r\n      <properties />\r\n      <listeners />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"TestNG.E:/seleniumwebdriver/Opencartv1/grid-docker.xml\" />\r\n        <item itemvalue=\"TestNG.E:/seleniumwebdriver/Opencartv1/grouping.xml\" />\r\n        <item itemvalue=\"TestNG.E:/seleniumwebdriver/Opencartv1/master.xml\" />\r\n        <item itemvalue=\"TestNG.E:/seleniumwebdriver/Opencartv1/crossbrowsertesting.xml\" />\r\n        <item itemvalue=\"TestNG.TC001_AccountRegistrationTest (1)\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"330fbad8-5abb-4d22-8ccf-7604c56f115d\" name=\"Changes\" comment=\"\" />\r\n      <created>1726038210491</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1726038210491</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"XDebuggerManager\">\r\n    <breakpoint-manager>\r\n      <breakpoints>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/deepak/Main.java</url>\r\n          <line>13</line>\r\n          <option name=\"timeStamp\" value=\"1\" />\r\n        </line-breakpoint>\r\n      </breakpoints>\r\n    </breakpoint-manager>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -6,8 +6,6 @@
+   <component name="ChangeListManager">
+     <list default="true" id="330fbad8-5abb-4d22-8ccf-7604c56f115d" name="Changes" comment="">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/logs/automation.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/automation.log" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -38,26 +36,26 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "Maven.Opencartv1 [compile].executor": "Run",
+-    "Maven.Opencartv1 [install].executor": "Run",
+-    "Maven.Opencartv1 [test].executor": "Run",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+-    "TestNG.E:/seleniumwebdriver/Opencartv1/crossbrowsertesting.xml.executor": "Run",
+-    "TestNG.E:/seleniumwebdriver/Opencartv1/grid-docker.xml.executor": "Run",
+-    "TestNG.E:/seleniumwebdriver/Opencartv1/grouping.xml.executor": "Run",
+-    "TestNG.E:/seleniumwebdriver/Opencartv1/master.xml.executor": "Run",
+-    "TestNG.TC001_AccountRegistrationTest (1).executor": "Run",
+-    "TestNG.TC001_AccountRegistrationTest.executor": "Run",
+-    "TestNG.TC001_AccountRegistrationTest.verify_account_registration.executor": "Run",
+-    "git-widget-placeholder": "day4",
+-    "kotlin-language-version-configured": "true",
+-    "last_opened_file_path": "E:/seleniumwebdriver/Opencartv1/testData",
+-    "onboarding.tips.debug.path": "E:/seleniumwebdriver/Opencartv1/src/main/java/org/deepak/Main.java"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;Maven.Opencartv1 [compile].executor&quot;: &quot;Run&quot;,
++    &quot;Maven.Opencartv1 [install].executor&quot;: &quot;Run&quot;,
++    &quot;Maven.Opencartv1 [test].executor&quot;: &quot;Run&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
++    &quot;TestNG.E:/seleniumwebdriver/Opencartv1/crossbrowsertesting.xml.executor&quot;: &quot;Run&quot;,
++    &quot;TestNG.E:/seleniumwebdriver/Opencartv1/grid-docker.xml.executor&quot;: &quot;Run&quot;,
++    &quot;TestNG.E:/seleniumwebdriver/Opencartv1/grouping.xml.executor&quot;: &quot;Run&quot;,
++    &quot;TestNG.E:/seleniumwebdriver/Opencartv1/master.xml.executor&quot;: &quot;Run&quot;,
++    &quot;TestNG.TC001_AccountRegistrationTest (1).executor&quot;: &quot;Run&quot;,
++    &quot;TestNG.TC001_AccountRegistrationTest.executor&quot;: &quot;Run&quot;,
++    &quot;TestNG.TC001_AccountRegistrationTest.verify_account_registration.executor&quot;: &quot;Run&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;day4&quot;,
++    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
++    &quot;last_opened_file_path&quot;: &quot;E:/seleniumwebdriver/Opencartv1/testData&quot;,
++    &quot;onboarding.tips.debug.path&quot;: &quot;E:/seleniumwebdriver/Opencartv1/src/main/java/org/deepak/Main.java&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RecentsManager">
+     <key name="CopyFile.RECENT_KEYS">
+       <recent name="E:\seleniumwebdriver\Opencartv1\testData" />

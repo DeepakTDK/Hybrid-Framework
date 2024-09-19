@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="330fbad8-5abb-4d22-8ccf-7604c56f115d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/automation.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/automation.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,26 +36,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Maven.Opencartv1 [compile].executor": "Run",
-    "Maven.Opencartv1 [install].executor": "Run",
-    "Maven.Opencartv1 [test].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "TestNG.E:/seleniumwebdriver/Opencartv1/crossbrowsertesting.xml.executor": "Run",
-    "TestNG.E:/seleniumwebdriver/Opencartv1/grid-docker.xml.executor": "Run",
-    "TestNG.E:/seleniumwebdriver/Opencartv1/grouping.xml.executor": "Run",
-    "TestNG.E:/seleniumwebdriver/Opencartv1/master.xml.executor": "Run",
-    "TestNG.TC001_AccountRegistrationTest (1).executor": "Run",
-    "TestNG.TC001_AccountRegistrationTest.executor": "Run",
-    "TestNG.TC001_AccountRegistrationTest.verify_account_registration.executor": "Run",
-    "git-widget-placeholder": "day4",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/seleniumwebdriver/Opencartv1/testData",
-    "onboarding.tips.debug.path": "E:/seleniumwebdriver/Opencartv1/src/main/java/org/deepak/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.Opencartv1 [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Opencartv1 [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Opencartv1 [test].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.E:/seleniumwebdriver/Opencartv1/crossbrowsertesting.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.E:/seleniumwebdriver/Opencartv1/grid-docker.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.E:/seleniumwebdriver/Opencartv1/grouping.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.E:/seleniumwebdriver/Opencartv1/master.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TC001_AccountRegistrationTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TC001_AccountRegistrationTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TC001_AccountRegistrationTest.verify_account_registration.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;day4&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Hybrid-Framework-day4&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;E:/seleniumwebdriver/Opencartv1/src/main/java/org/deepak/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\seleniumwebdriver\Opencartv1\testData" />
