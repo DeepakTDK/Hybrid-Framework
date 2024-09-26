@@ -32,7 +32,7 @@ public class BaseClass {
     public Logger logger;
     public Properties p;
 
-    @BeforeClass(groups = {"Sanity", "Regression", "Master"})
+    @BeforeClass(groups = {"sanity", "firefox"})
     @Parameters({"os", "browser"})
     public void setup(String os, String br) throws IOException {
         logger = LogManager.getLogger(this.getClass());
@@ -97,7 +97,7 @@ public class BaseClass {
         driver.manage().window().maximize();
     }
 
-    @AfterClass(groups = {"Sanity", "Regression", "Master"})
+    @AfterClass(groups = {"sanity", "firefox"})
     public void teardown(){
         driver.quit();
     }

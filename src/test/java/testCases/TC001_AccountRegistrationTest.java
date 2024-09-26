@@ -8,7 +8,7 @@ import pageObjects.HomePage;
 import testBase.BaseClass;
 
 public class TC001_AccountRegistrationTest extends BaseClass {
-    @Test(groups = {"Sanity", "Master"})
+    @Test(groups = {"sanity"})
     void verify_account_registration(){
         logger.info("Started TC001_AccountRegistrationTest");
         logger.debug("This is a debug log message");

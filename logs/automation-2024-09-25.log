@@ -1,0 +1,63 @@
+13:46:19.611 [main] INFO  testCases.TC001_AccountRegistrationTest - Started TC001_AccountRegistrationTest
+13:46:19.977 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+13:46:21.153 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link.. 
+13:46:21.155 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+13:46:23.341 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+13:46:23.403 [main] INFO  testCases.TC001_AccountRegistrationTest - Test passed
+13:46:35.058 [main] INFO  testCases.TC002_LoginTest - starting TC002_LoginTest
+13:46:37.093 [main] INFO  testCases.TC002_LoginTest - Finished TC002_LoginTest
+15:49:09.673 [main] INFO  testCases.TC001_AccountRegistrationTest - Started TC001_AccountRegistrationTest
+15:49:10.058 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+15:49:10.751 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link.. 
+15:49:10.756 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+15:49:12.437 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+15:49:12.494 [main] INFO  testCases.TC001_AccountRegistrationTest - Test passed
+15:49:16.883 [main] INFO  testCases.TC002_LoginTest - starting TC002_LoginTest
+15:49:18.852 [main] INFO  testCases.TC002_LoginTest - Finished TC002_LoginTest
+15:49:24.431 [main] INFO  testCases.TC003_LoginDDT - stating TC_003_LoginDDT
+15:49:30.046 [main] INFO  testCases.TC003_LoginDDT - Finished TC003_LoginDDT
+15:49:30.049 [main] INFO  testCases.TC003_LoginDDT - stating TC_003_LoginDDT
+15:49:35.561 [main] INFO  testCases.TC003_LoginDDT - Finished TC003_LoginDDT
+15:49:35.567 [main] INFO  testCases.TC003_LoginDDT - stating TC_003_LoginDDT
+15:49:41.280 [main] INFO  testCases.TC003_LoginDDT - Finished TC003_LoginDDT
+15:49:41.282 [main] INFO  testCases.TC003_LoginDDT - stating TC_003_LoginDDT
+15:49:45.396 [main] INFO  testCases.TC003_LoginDDT - stating TC_003_LoginDDT
+15:49:59.862 [main] INFO  testCases.TC003_LoginDDT - Finished TC003_LoginDDT
+15:49:59.867 [main] INFO  testCases.TC003_LoginDDT - stating TC_003_LoginDDT
+15:50:14.753 [main] INFO  testCases.TC003_LoginDDT - Finished TC003_LoginDDT
+15:42:18.087 [main] INFO  testCases.TC001_AccountRegistrationTest - Started TC001_AccountRegistrationTest
+15:42:18.373 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+15:42:19.084 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link.. 
+15:42:19.088 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+15:42:21.237 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+15:42:21.356 [main] INFO  testCases.TC001_AccountRegistrationTest - Test passed
+15:42:24.591 [main] INFO  testCases.TC002_LoginTest - starting TC002_LoginTest
+15:42:26.703 [main] INFO  testCases.TC002_LoginTest - Finished TC002_LoginTest
+15:42:36.993 [main] INFO  testCases.TC001_AccountRegistrationTest - Started TC001_AccountRegistrationTest
+15:42:37.365 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+15:42:38.280 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link.. 
+15:42:38.280 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+15:42:40.000 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+15:42:40.060 [main] INFO  testCases.TC001_AccountRegistrationTest - Test passed
+15:42:48.380 [main] INFO  testCases.TC002_LoginTest - starting TC002_LoginTest
+15:42:50.476 [main] INFO  testCases.TC002_LoginTest - Finished TC002_LoginTest
+22:43:57.471 [main] INFO  testCases.TC001_ACF - 1
+22:48:43.780 [main] INFO  testCases.TC001_ACF - 1
+22:53:20.249 [main] INFO  testCases.TC001_ACF - 1
+23:01:53.633 [main] INFO  testCases.TC001_ACF - TC001_ACF started
+23:01:53.910 [main] INFO  testCases.TC001_ACF - input given
+23:01:54.543 [main] INFO  testCases.TC001_ACF - search button clicked
+23:01:54.688 [main] INFO  testCases.TC001_ACF - p1 clicked
+23:10:01.135 [main] INFO  testCases.TC001_ACF - TC001_ACF started
+23:10:01.435 [main] INFO  testCases.TC001_ACF - input given
+23:10:02.517 [main] INFO  testCases.TC001_ACF - search button clicked
+23:10:02.621 [main] INFO  testCases.TC001_ACF - p1 clicked
+23:14:24.534 [main] INFO  testCases.TC001_ACF - TC001_ACF started
+23:14:24.871 [main] INFO  testCases.TC001_ACF - input given
+23:14:25.483 [main] INFO  testCases.TC001_ACF - search button clicked
+23:14:25.599 [main] INFO  testCases.TC001_ACF - p1 clicked
+23:15:45.748 [main] INFO  testCases.TC001_ACF - TC001_ACF started
+23:15:46.059 [main] INFO  testCases.TC001_ACF - input given
+23:15:46.625 [main] INFO  testCases.TC001_ACF - search button clicked
+23:15:46.727 [main] INFO  testCases.TC001_ACF - p1 clicked
+23:19:00.844 [main] INFO  testCases.TC001_ACF - TC001_ACF started
